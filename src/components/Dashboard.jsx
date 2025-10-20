@@ -106,7 +106,7 @@ const Dashboard = ({ toggleSidebar }) => {
           >
             <Menu className="w-6 h-6" />
           </button>
-          <h1 className="text-xl font-extrabold text-gray-900 hidden sm:block">
+          <h1 className="text-3xl font-bold text-gray-900 hidden sm:block">
             Dashboard Overview
           </h1>
         </div>
