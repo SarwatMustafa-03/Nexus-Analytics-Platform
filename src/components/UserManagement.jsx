@@ -12,6 +12,7 @@ const LIGHT_BACKGROUND = "bg-white";
 // Enhanced User Data
 const userManagementData = [
   { 
+    
     id: 101, 
     name: 'Alice Johnson', 
     email: 'alice.johnson@techcorp.com', 
